@@ -19,7 +19,7 @@ Este progrma está compuesto por los 7 ficheros siguientes:
     3. Pintar la pantalla de verde 
     4. Dibujar líneas verticales rojas 
     5. Terminar
-- hline.s: Dibujar una linea horizontal de n pixeles, del color indicado. Lalinea comienza a partir de la direccion addr.
+- hline.s: Dibujar una linea horizontal de n pixeles, del color indicado. La línea comienza a partir de la direccion addr.
 - fill.s: Pintar la pantalla completa con el color indicado. Addr es la direcciónbase del pixel situado en la esquina superior izquierda. 
   Esta función DEBERÁ pintar la pantallalínea a línea, llamando a la función hline().
 - vline.s: Función para dibujar líneas verticales.
