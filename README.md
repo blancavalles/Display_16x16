@@ -11,7 +11,7 @@ Arquitectura de computadores
 Ingeniería en tecnologías de la telecomunciación
 
 # Descripción
-Este progrma está compuesto por los 7 ficheros siguientes:
+Este programa está compuesto por los 7 ficheros siguientes:
 
 - main.s: Este fichero nos proporciona un menú desde el que el usuario eligirá una de las 5 opciones posibles:
     1. Dibujar 2 líneas horizontales rojas 
